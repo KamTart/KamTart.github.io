@@ -10,8 +10,8 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #26004d;
-  background:   #993e64 
-table, tr, td { background-color: transparent; border: none; border-width: 0; }
+  background:   #993e64;
+table, tr, td { background-color: #993e64; border: none; border-width: 0; }
 body {
     background-color: FFFFFF;
     background-image: url('http://dl3.glitter-graphics.net/pub/516/516396g5p257z23o.jpg');
