@@ -225,7 +225,7 @@ iframe {
   font-size: 12px;
 }
 .latest .item .title a {
-  color: #14800c;
+  color: #30bba9;
 }
 .latest .item .title a:hover {
   color: #5f6b77;
@@ -281,7 +281,7 @@ iframe {
   font-weight: bold;
   text-align: center;
   text-transform: uppercase;
-  color: #fff;
+  color: #30bba9;
   background-color: #479FC8;
   -webkit-transform: rotate(45deg) translate3d(0, 0, 0);
   -moz-transform: rotate(45deg) translate3d(0, 0, 0);
@@ -416,7 +416,7 @@ iframe {
   margin-bottom: 0;
 }
 .testimonials .item .quote {
-  color: #666;
+  color: #30bba9;
   font-size: 16px;
   border-left-color: #9fdeb7;
   margin-bottom: 15px;
