@@ -179,7 +179,7 @@ iframe {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  color: #fff;
+  color: #984104;
   text-align: center;
 }
 .header .profile-content .social a:hover {
@@ -204,7 +204,7 @@ iframe {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #545e69;
+  color: #984104;
   font-size: 24px;
 }
 .section .content .more-link .fa {
