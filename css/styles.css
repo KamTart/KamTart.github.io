@@ -431,7 +431,7 @@ iframe {
   font-weight: 500;
 }
 .testimonials .item .source .name {
-  color: #939ea9;
+  color: #80460c;
   font-weight: 600;
 }
 .testimonials .item .source .title {
@@ -451,12 +451,12 @@ iframe {
 .education .item .university {
   font-family: "Lato", arial, sans-serif;
   font-size: 13px;
-  color: #999;
+  color: #30bba9;
   font-weight: 600;
   padding-left: 25px;
 }
 .education .item .university .year {
-  color: #b0b7bf;
+  color: #80460c;
   font-weight: 500;
 }
 /* Language Section */
@@ -467,7 +467,7 @@ iframe {
   color: #778492;
 }
 .languages .item .level {
-  color: #999;
+  color: #30bba9;
 }
 .languages .item:last-child {
   margin-bottom: 0;
